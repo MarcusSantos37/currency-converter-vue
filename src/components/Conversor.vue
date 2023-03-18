@@ -18,7 +18,7 @@ export default {
   data() {
     return {
       currencyA_value: "",
-      currencyB_value: 0,
+      currencyB_value: null,
     };
   },
   methods: {

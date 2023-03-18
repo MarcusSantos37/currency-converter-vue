@@ -39,4 +39,12 @@ export default {
   justify-content: center;
   gap: 20px;
 }
+
+@media (max-width: 630px) {
+  .line {
+    align-items: center;
+    flex-direction: column;
+  }
+}
+
 </style>
